@@ -1,0 +1,52 @@
+:root {
+  --mainColor: #d55c2b;
+  --gray: rgba(0,0,0,0.05);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 15px 0;
+}
+
+.company {
+  background-color: var(--gray);
+}
+
+.map {
+  margin: 15px 0;
+}
+
+.contact {
+  margin: 0 15px;
+}
+
+p {
+  font-weight: bold;
+}
+
+hr {
+  background-color: var(--mainColor);
+  height: 5px;
+  width: 20%;
+  border: none;
+  border-radius: 5px;
+}
+
+h1 {
+  color: var(--mainColor)
+}
+
+footer {
+  background-color: var(--gray);
+}
+
+
+@media only screen and (max-width: 600px) {
+  .container {
+    padding: 15px 15px
+  }
+}
