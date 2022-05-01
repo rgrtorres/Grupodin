@@ -3,12 +3,12 @@
     <div class="container">
       <div class="container d-flex justify-content-center">
         <img
-          src="http://grupodin.com.br/images/selo-sassmaq.png"
+          src="images/selo-sassmaq.png"
           alt=""
           style="margin: 0 5px"
         />
         <img
-          src="http://grupodin.com.br/images/selo-dqs.png"
+          src="images/selo-dqs.png"
           alt=""
           style="margin: 0 5px"
         />
