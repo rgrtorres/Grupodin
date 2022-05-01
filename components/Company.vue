@@ -23,7 +23,7 @@
       </div>
 
       <img
-        src="http://grupodin.com.br/images/caminhao-gruposin.png"
+        src="images/caminhao-gruposin.png"
         alt="caminhão"
         v-if="this.SizeScreen > 600"
       />
