@@ -17,14 +17,3 @@
     </b-navbar>
   </div>
 </template>
-
-<script>
-export default {
-  data: () => ({
-    itemMenu: "menu",
-  }),
-  mounted: function () {
-    console.log(this.itemMenu);
-  },
-};
-</script>
