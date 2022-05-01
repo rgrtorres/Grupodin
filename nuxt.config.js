@@ -3,7 +3,7 @@ export default {
   head: {
     title: 'Grupodin',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'pt-BR'
     },
     meta: [
       { charset: 'utf-8' },
@@ -12,12 +12,14 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap' },
     ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    'assets/css/style.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

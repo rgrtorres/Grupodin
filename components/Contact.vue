@@ -119,7 +119,7 @@
       </div>
 
       <div class="w-50 d-flex justify-content-center">
-        <img src="../assets/images/fale-conosco.png" alt="fale-conosco" />
+        <img src="/images/fale-conosco.png" alt="fale-conosco" />
       </div>
     </div>
 

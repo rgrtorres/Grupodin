@@ -8,10 +8,10 @@
     img-height="800"
   >
     <b-carousel-slide
-      img-src="http://www.grupodin.com.br/images/Slideum.jpg"
+      img-src="/images/Slideum.jpg"
     ></b-carousel-slide>
     <b-carousel-slide
-      img-src="http://www.grupodin.com.br/images/Slidedois.jpg"
+      img-src="/images/Slidedois.jpg"
     ></b-carousel-slide>
   </b-carousel>
 </template>

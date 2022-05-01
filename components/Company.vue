@@ -1,5 +1,5 @@
 <template>
-  <div class="company">
+  <div class="company" id="company">
     <div class="container d-flex align-items-center" id="company">
       <div>
         <h1>DIN LOG Transportes</h1>
